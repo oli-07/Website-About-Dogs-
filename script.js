@@ -1,7 +1,7 @@
 let count = 0;
 
-const button = document.getElementById("watering-btn");
-const countDisplay = document.getElementById("watering-count");
+const button = document.getElementById("treat-btn");
+const countDisplay = document.getElementById("treat-count");
 
 button.addEventListener("click", function () {
   count++;
