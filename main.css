@@ -60,7 +60,7 @@ h3 {
 }
 
 canvas {
-  background-color: white;
+  background-color: #333;
   border: 2px dashed #333;
   cursor: crosshair;
 }
